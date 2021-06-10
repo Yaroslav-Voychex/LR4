@@ -1,0 +1,11 @@
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\bin\Debug\Лабораторна4_ООП.exe.config
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\bin\Debug\Лабораторна4_ООП.exe
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\bin\Debug\Лабораторна4_ООП.pdb
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.csprojAssemblyReference.cache
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.Properties.Resources.resources
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.csproj.GenerateResource.cache
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.csproj.CoreCompileInputs.cache
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.exe
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.pdb
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.fMain.resources
+c:\users\yarick\source\repos\Лабораторна4_ООП\Лабораторна4_ООП\obj\Debug\Лабораторна4_ООП.fTown.resources
